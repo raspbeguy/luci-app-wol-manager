@@ -1,0 +1,11 @@
+# Local OpenWrt SDK used by scripts/build-apk.sh
+/.sdk/
+
+# Build artifacts
+*.apk
+
+# Local editor/agent state
+/.claude/settings.local.json
+
+# Output of scripts/build-apk.sh
+/dist/

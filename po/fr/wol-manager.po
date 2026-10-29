@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+msgid "Allowed lists"
+msgstr "Listes autorisées"
+
+msgid "Cannot create the token."
+msgstr "Impossible de créer le jeton."
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Copy this token now. It is not shown again. The previous token of this user is no longer valid."
+msgstr "Copiez ce jeton maintenant. Il ne sera plus affiché. L'ancien jeton de cet utilisateur n'est plus valide."
+
+msgid "Default interface"
+msgstr "Interface par défaut"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Enable API"
+msgstr "Activer l'API"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Example:"
+msgstr "Exemple :"
+
+msgid "Generate"
+msgstr "Générer"
+
+msgid "Grant access to Wake-on-LAN Manager"
+msgstr "Donner accès à Wake-on-LAN Manager"
+
+msgid "Host lists"
+msgstr "Listes d'hôtes"
+
+msgid "Hosts"
+msgstr "Hôtes"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "MAC address"
+msgstr "Adresse MAC"
+
+msgid "Network interface for the magic packets, if the host has no interface."
+msgstr "Interface réseau pour les paquets magiques, si l'hôte n'a pas d'interface."
+
+msgid "New token"
+msgstr "Nouveau jeton"
+
+msgid "New token for %s"
+msgstr "Nouveau jeton pour %s"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Token"
+msgstr "Jeton"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Users call the HTTP API with a Bearer token. Each user can wake only the hosts of the lists that are allowed for this user."
+msgstr "Les utilisateurs appellent l'API HTTP avec un jeton Bearer. Chaque utilisateur peut réveiller seulement les hôtes des listes autorisées pour lui."
+
+msgid "Wake-on-LAN Manager"
+msgstr "Gestionnaire Wake-on-LAN"
+
+msgid "WoL Manager"
+msgstr "WoL Manager"
+
+msgid "none"
+msgstr "aucun"
+
+msgid "set"
+msgstr "défini"

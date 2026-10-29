@@ -1,0 +1,80 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Allowed lists"
+msgstr ""
+
+msgid "Cannot create the token."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Copy this token now. It is not shown again. The previous token of this user is no longer valid."
+msgstr ""
+
+msgid "Default interface"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Enable API"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Example:"
+msgstr ""
+
+msgid "Generate"
+msgstr ""
+
+msgid "Grant access to Wake-on-LAN Manager"
+msgstr ""
+
+msgid "Host lists"
+msgstr ""
+
+msgid "Hosts"
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "MAC address"
+msgstr ""
+
+msgid "Network interface for the magic packets, if the host has no interface."
+msgstr ""
+
+msgid "New token"
+msgstr ""
+
+msgid "New token for %s"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Token"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Users call the HTTP API with a Bearer token. Each user can wake only the hosts of the lists that are allowed for this user."
+msgstr ""
+
+msgid "Wake-on-LAN Manager"
+msgstr ""
+
+msgid "WoL Manager"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "set"
+msgstr ""

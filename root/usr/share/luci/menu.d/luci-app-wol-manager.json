@@ -1,0 +1,14 @@
+{
+	"admin/services/wol-manager": {
+		"title": "WoL Manager",
+		"order": 60,
+		"action": {
+			"type": "view",
+			"path": "wol-manager"
+		},
+		"depends": {
+			"acl": [ "luci-app-wol-manager" ],
+			"uci": { "wol_manager": true }
+		}
+	}
+}

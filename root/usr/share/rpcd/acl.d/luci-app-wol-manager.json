@@ -1,0 +1,17 @@
+{
+	"luci-app-wol-manager": {
+		"description": "Grant access to Wake-on-LAN Manager",
+		"read": {
+			"ubus": {
+				"luci-rpc": [ "getHostHints", "getNetworkDevices" ]
+			},
+			"uci": [ "wol_manager" ]
+		},
+		"write": {
+			"ubus": {
+				"wol-manager": [ "token_new" ]
+			},
+			"uci": [ "wol_manager" ]
+		}
+	}
+}
